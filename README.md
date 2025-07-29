@@ -483,6 +483,7 @@ That would be a better implementation of `currentAgeForBirthYear` as it is more
 abstract.
 
 ## Conclusion
+### Test-Driven Development Summary
 
 In this lesson, we went through an example of how to follow a test-driven
 development approach to writing code. We demonstrated how to structure files in
